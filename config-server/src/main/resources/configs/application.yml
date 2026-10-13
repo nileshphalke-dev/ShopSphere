@@ -1,0 +1,3 @@
+# Shared properties served to every service by the config server
+shopsphere:
+  environment: local
