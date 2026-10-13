@@ -1,4 +1,5 @@
 # ShopSphere
+<<<<<<< HEAD
 
 E-commerce microservices platform for Spring Boot practice and interview preparation.
 
@@ -61,3 +62,6 @@ Services work without the config server (the import is optional), and Eureka err
 - **Distributed tracing + Zipkin, Prometheus:** add in the observability phase using the Spring Boot 4 starters.
 - **Testcontainers:** add `testcontainers-*` modules managed by the Spring Boot BOM when you write integration tests.
 - **JaCoCo threshold:** `jacoco.minimum.coverage` in the parent POM is 0.00 now. Raise it to 0.80 later.
+=======
+ShopSphere E-commerce Microservices project in Spring Boot 
+>>>>>>> 85d1473b58ac08d304aff6ac1380a24f6b49a9d0
